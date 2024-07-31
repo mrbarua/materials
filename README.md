@@ -10,7 +10,7 @@ Want to learn more about cybersecurity? Discover cybersecurity resources.
 
 ![My Blog](/my-blog.png "My Blog")
 
-## Guide Tutorials
+## Guides
 
 |  Guides  | URL                                         |
 |----------|---------------------------------------------|
@@ -28,4 +28,5 @@ Want to learn more about cybersecurity? Discover cybersecurity resources.
 |  Blog  | URL                                         |
 |----------|---------------------------------------------|
 | My Blog | https://weblog.mrbarua.com/blog/ |
+| Linux vs Windows Commands | https://weblog.mrbarua.com/blog/linux-vs-windows-commands/ |
 
