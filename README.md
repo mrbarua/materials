@@ -1,6 +1,6 @@
 # Materials
 
-![My Blog](/my-blog.png "My Blog")
+Want to learn more about cybersecurity? Discover cybersecurity resources. 
 
 ## Roadmap
 
@@ -8,6 +8,7 @@
 |----------|---------------------------------------------|
 | Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
 
+![My Blog](/my-blog.png "My Blog")
 
 ## Guide Tutorials
 
