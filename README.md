@@ -6,7 +6,7 @@ Want to learn more about cybersecurity? Discover cybersecurity resources.
 
 |  Roadmap  | URL                                         |
 |----------|---------------------------------------------|
-| Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
+| Linux | https://weblog.mrbarua.com/roadmap/linux-roadmap/ |
 
 ![My Blog](/my-blog.png "My Blog")
 
@@ -14,18 +14,18 @@ Want to learn more about cybersecurity? Discover cybersecurity resources.
 
 |  Guides  | URL                                         |
 |----------|---------------------------------------------|
-| Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
+| Markdown | https://weblog.mrbarua.com/guides/markdown/ |
 
 
 ## France
 
 |  France  | URL                                         |
 |----------|---------------------------------------------|
-| Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
+| Code de la route | https://weblog.mrbarua.com/france/code-de-la-route/ |
 
 ## Blog
 
 |  Blog  | URL                                         |
 |----------|---------------------------------------------|
-| Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
+| My Blog | https://weblog.mrbarua.com/blog/ |
 
