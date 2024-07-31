@@ -2,6 +2,10 @@
 
 ## Roadmap
 
+|  Roadmap  | URL                                         |
+|----------|---------------------------------------------|
+| Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
+
 
 ## Guide Tutorials
 
@@ -9,4 +13,16 @@
 |----------|---------------------------------------------|
 | Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
 
+
+## France
+
+|  France  | URL                                         |
+|----------|---------------------------------------------|
+| Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
+
+## Blog
+
+|  Blog  | URL                                         |
+|----------|---------------------------------------------|
+| Mkdocs | https://weblog.mrbarua.com/guides/markdown/mkdocs |
 
