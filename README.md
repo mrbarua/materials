@@ -1,13 +1,18 @@
 # Materials
 
-## Roadmap 
-[Roadmap](https://weblog.mrbarua.com/roadmap/)
+## Roadmap
 
-## Guides 
-[Guides](https://weblog.mrbarua.com/guides/)
 
-## What to Learn
+|  Roadmap  | URL                                         |
+|----------|---------------------------------------------|
+| Markdown | https://weblog.mrbarua.com/guides/markdown/ |
+|          |                                             |
+|          |                                             |
 
-|  Guides | URL |
-|---------|-----|
-|  Markdown |[Markdown](https://weblog.mrbarua.com/guides/markdown/  |
+## Guide Tutorials
+
+|  Guides  | URL                                         |
+|----------|---------------------------------------------|
+| Markdown | https://weblog.mrbarua.com/guides/markdown/ |
+| Mkdocs | [Mkdocs](https://weblog.mrbarua.com/guides/markdown/mkdocs/ "Mkdocs" target="_blank")|
+| Mkdocs | [Mkdocs](https://weblog.mrbarua.com/guides/markdown/mkdocs/ "Mkdocs" target="_blank")|
