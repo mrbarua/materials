@@ -1,5 +1,7 @@
 # Materials
 
+![My Blog](/my-blog.png "My Blog")
+
 ## Roadmap
 
 |  Roadmap  | URL                                         |
